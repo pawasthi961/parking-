@@ -6,5 +6,9 @@ parking.py the code for display of GUI.
  pip install firebase_admin\
  pip install tkinter 
  
+ # libraries for Arduino are:
+ ArduinoJson\
+ firebase-arduino-master
+ 
  
  
